@@ -1,6 +1,6 @@
-# lghilb-yu.github.io  
-BLOG SITE ON GITHUB PAGES  
-https://lghilb-yu.github.io  
+# psbash.cf  
+我的个人网站  
+https://psbash.cf  
   
-Made with Kind Editor  
+制作工具:富文本编辑器Kindeditor  
 https://kindeditor.net  
