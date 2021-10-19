@@ -1,6 +1,5 @@
 # psbash.tk  
 我的个人网站  
-https://psbash.tk  
-  
-制作工具:富文本编辑器Kindeditor  
-https://kindeditor.net  
+http://mirrors.psbash.tk
+镜像站
+https://ghpb.gitee.io/old-site
